@@ -1,5 +1,7 @@
 Some changes need to be made to the web server configuration (in this case, Apache) in order to run the python scripts.
 
+Editing this
+
 1. Install mod python
 
         apt-get install libapache2-mod-python
@@ -17,7 +19,7 @@ Some changes need to be made to the web server configuration (in this case, Apac
 
         /etc/init.d/apache2 restart
 
-Congrats !!
+Congratulations !!
 
 * You have successfully downloaded and extracted the
   ui.tgz .
